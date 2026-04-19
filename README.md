@@ -51,7 +51,7 @@
 <p align="center">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
   <a href="https://www.linkedin.com/in/abdulrahman-awad2/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
+  <a href="https://github.com/Abdulrahman-mo77/Abdulrahman-_Mo"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
 </p>
 
 ---

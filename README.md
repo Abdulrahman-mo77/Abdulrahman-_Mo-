@@ -32,6 +32,29 @@
 
 
 ---
+## 📊 GitHub Stats (Frontend + AI Focus)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-mo77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Abdelrahman's%20GitHub%20Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-mo77&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdulrahman-mo77&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Development Focus
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulrahman-mo77&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrahman-mo77&theme=tokyonight" />
+</p>
+---
 
 ## 🚀 Featured Projects
 

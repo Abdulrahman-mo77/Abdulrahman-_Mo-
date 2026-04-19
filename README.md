@@ -1,4 +1,3 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
 <h3 align="center">Frontend Developer & AI Enthusiast 🚀</h3>
@@ -59,7 +58,7 @@
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/abdulrahman-awad2/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
 </p>
 

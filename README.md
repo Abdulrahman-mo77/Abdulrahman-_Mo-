@@ -49,7 +49,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+  <a href="mailto:am7819563@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
   <a href="https://www.linkedin.com/in/abdulrahman-awad2/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://github.com/Abdulrahman-mo77"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
 </p>

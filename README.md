@@ -1,86 +1,76 @@
 ![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
-<h3 align="center">
-Frontend Developer | AI Engineer | Building Smart Web Experiences 🚀
-</h3>
+<h2 align="center">Abdelrahman Mohamed</h2>
+<h4 align="center">Frontend Developer | AI Enthusiast</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Abdelrahman Mohamed** 👋  
-
-🎓 Final-year Computer Science student passionate about building modern web applications.  
-💻 متخصص في **Frontend Development** باستخدام React و JavaScript.  
-🤖 مهتم بمجال **Artificial Intelligence** ودمجه مع الويب لعمل تطبيقات ذكية.  
-🚀 بحب أشتغل على مشاريع تجمع بين **UI/UX + AI**.  
+- 🎓 Final-year Computer Science student  
+- 💻 Frontend Developer focused on building modern, responsive web apps  
+- 🤖 Interested in integrating AI into real-world applications  
+- 🚀 Passionate about creating smart and interactive user experiences  
 
 ---
 
-## 🧠 What I'm Currently Learning
+## 🛠 Tech Stack
 
-🌱 تطوير مهاراتي في:
-- Advanced React & Next.js  
-- AI Integration in Web Apps  
-- Machine Learning & Deep Learning  
-- System Design & Clean Architecture  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
+**Frontend**
+- HTML, CSS, JavaScript (ES6+)
 - React.js, Next.js
-- Tailwind CSS, Bootstrap
+- Tailwind CSS, Bootstrap  
 
-### 🤖 AI & Data
+**AI & Programming**
 - Python
-- Machine Learning
-- TensorFlow / Scikit-learn
+- Machine Learning basics  
 
-### ⚙️ Tools & Others
-- Git & GitHub
-- REST APIs
-- Firebase
-- Figma
+**Tools**
+- Git & GitHub  
+- REST APIs  
+- Firebase  
+- Figma  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-🔹 AI Video to Text Converter  
-- تحويل الفيديو إلى نص باستخدام تقنيات AI  
-- Frontend حديث + تجربة مستخدم قوية  
+- **AI Video to Text Converter**  
+  Modern web app for converting video/audio to text using AI  
 
-🔹 Virtual Science Lab (VR Project)  
-- معمل علوم افتراضي باستخدام Unity  
-- تجربة تعليمية تفاعلية  
+- **Virtual Science Lab**  
+  Interactive virtual lab built with Unity for educational purposes  
 
-🔹 Prompt Generator Website  
-- موقع لتوليد برومبت احترافي لأي استخدام AI  
+- **Prompt Generator Website**  
+  Tool to generate optimized prompts for AI tools  
 
 ---
 
-## 📬 Let's Connect
+## 📫 Contact
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/32/000000/gmail.png"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.icons8.com/material-outlined/32/000000/github.png"/></a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.icons8.com/color/32/000000/gmail.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.icons8.com/material-outlined/32/000000/github.png"/>
+  </a>
 </p>
-
----
-
-## 💡 Fun Fact
-
-⚡ بحب أحول أي فكرة عادية لمشروع عملي باستخدام AI 😄
